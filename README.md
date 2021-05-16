@@ -1,4 +1,7 @@
-Hi! my name is Sebastian ,I'am full stack developer
+<h1 align="center">Hi 👋, I'm Sebastian Diaz</h1>
+<h3 align="center">I'm full stack developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdiazbarraza&label=Profile%20views&color=0e75b6&style=flat" alt="sdiazbarraza" /> </p>
 
 
 <a href="https://github.com/sdiazbarraza/sdiazbarraza">
